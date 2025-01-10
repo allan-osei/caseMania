@@ -42,6 +42,6 @@ export function constructMetadata({
       creator: '@josh',
     },
     icons,
-    metadataBase: new URL("https://casecobra.vercel.app/")
+    metadataBase: new URL("https://case-mania.vercel.app/")
   }
 }
