@@ -97,6 +97,16 @@ Notifications or activity log
 
 📸 Screenshots
 ![Screenshot (1)](https://github.com/user-attachments/assets/45691f3a-2c1e-4350-8f94-bf582e3fce66)
+![Screenshot (12)](https://github.com/user-attachments/assets/5063f23c-da67-480f-8b44-1b0d82bf5ca0)
+![Screenshot (11)](https://github.com/user-attachments/assets/bc79843e-db73-4e4e-b61e-b178dd732a5e)
+![Screenshot (10)](https://github.com/user-attachments/assets/fa9a1c04-6ddc-4977-b823-927a2713df42)
+![Screenshot (9)](https://github.com/user-attachments/assets/6cde000c-4f44-46c2-a09d-62b6795d0af9)
+![Screenshot (8)](https://github.com/user-attachments/assets/091377dd-7d00-4254-bbf2-a9103bb0eaec)
+![Screenshot (7)](https://github.com/user-attachments/assets/b39bed54-ae8c-402a-a26c-021b7b5d5fad)
+![Screenshot (6)](https://github.com/user-attachments/assets/7b1c2f00-dfd3-4bc8-90d6-a1dffc033904)
+![Screenshot (5)](https://github.com/user-attachments/assets/6f7921ec-5d15-445a-8aa2-87ff8f9084e2)
+![Screenshot (4)](https://github.com/user-attachments/assets/54e243a7-8e18-4766-8470-b15533b3b061)
+![Screenshot (2)](https://github.com/user-attachments/assets/05275fdf-3280-4d9b-b398-d66ca1b88337)
 
 
 
