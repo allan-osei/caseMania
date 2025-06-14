@@ -31,47 +31,17 @@ caseMania/
 ├── .env.example          # Environment variable setup
 ├── package.json          # Dependencies and scripts
 └── README.md             # You're here!
-⚙️ Setup Instructions
-Clone the repo
 
-bash
-Copy
-Edit
-git clone https://github.com/allan-osei/caseMania.git
-cd caseMania
-Install dependencies
-
-bash
-Copy
-Edit
-npm install
-Set up environment variables
-
-Create a .env file based on .env.example:
-
-ini
-Copy
-Edit
-DATABASE_URL=postgresql://your_postgres_url
-Push schema to database
-
-bash
-Copy
-Edit
-npx prisma db push
-Start development server
-
-bash
-Copy
-Edit
-npm run dev
 🧪 Prisma Commands (Quick Reference)
 Command	Purpose
-npx prisma db push	Sync schema to DB without migration
-npx prisma migrate dev --name init	Create and apply a migration
-npx prisma studio	Launch Prisma GUI to inspect DB
-npx prisma db seed	Seed the database
-npx prisma generate	Regenerate Prisma client
+| Command                              | Purpose                             |
+| ------------------------------------ | ----------------------------------- |
+| `npx prisma db push`                 | Sync schema to DB without migration |
+| `npx prisma migrate dev --name init` | Create and apply a migration        |
+| `npx prisma studio`                  | Launch Prisma GUI to inspect DB     |
+| `npx prisma db seed`                 | Seed the database                   |
+| `npx prisma generate`                | Regenerate Prisma client            |
+
 
 🧰 UI/UX Features
 🔐 Auth-protected routes
